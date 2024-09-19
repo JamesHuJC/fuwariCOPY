@@ -1,10 +1,10 @@
 ---
-title: Guide to googling
+title: Guide to Googling
 published: 2024-06-11
 description: ''
 image: ''
-tags: [google,googleSearch,tips]
-category: 'google'
+tags: [InternetBrowsing, Google Search]
+category: 'InternetBrowsing'
 draft: false 
 ---
 ### Phrasing your words better

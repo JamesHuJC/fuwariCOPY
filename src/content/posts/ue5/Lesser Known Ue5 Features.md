@@ -1,10 +1,10 @@
 ---
-title: Lesser Known Ue5 Features
+title: Lesser Known UE5 Features
 published: 2024-06-29
 description: ''
 image: ''
-tags: [ue5,tips]
-category: 'ue5'
+tags: [UE5]
+category: 'UE'
 draft: false 
 ---
 ### Windows

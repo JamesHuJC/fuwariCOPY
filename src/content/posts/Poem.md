@@ -1,10 +1,10 @@
 ---
-title: Poem Aug 13
+title: Poem 2024 Aug 13
 published: 2024-08-12
 description: ''
 image: ''
-tags: [Poem]
-category: 'Poem'
+tags: [Poetry]
+category: 'Poetry'
 draft: false
 ---
 Note: I've been writing poems very casually for about 3 years. I just wrote what felt good, and didn't look that much into techniques.

@@ -3,8 +3,8 @@ title: Internet Browser Tips
 published: 2024-06-11
 description: ''
 image: ''
-tags: [internetBrowsing,tips]
-category: 'Tips'
+tags: [InternetBrowsing]
+category: 'InternetBrowsing'
 draft: false 
 ---
 (Please tell me about any wrong information)

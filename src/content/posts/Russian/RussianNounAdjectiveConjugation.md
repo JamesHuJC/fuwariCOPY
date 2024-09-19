@@ -3,7 +3,7 @@ title: Russian Noun/Adjective Conjugation Notes
 published: 2024-06-27
 description: ''
 image: ''
-tags: [Russian,Grammar,Noun,Adjective]
+tags: [Russian,Grammar]
 category: 'Russian'
 draft: false
 ---

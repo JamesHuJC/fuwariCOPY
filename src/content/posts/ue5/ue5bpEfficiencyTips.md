@@ -3,8 +3,8 @@ title: Unreal 5 blueprints Efficiency Tips
 published: 2024-06-11
 description: ''
 image: ''
-tags: [ue5, efficiency,tips]
-category: ue5
+tags: [UE5, Efficiency]
+category: UE5
 draft: false 
 ---
 ## Efficiency

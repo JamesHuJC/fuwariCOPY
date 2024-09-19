@@ -3,7 +3,7 @@ title: Introduction
 published: 2024-06-09
 description: 'Welcome to my blog'
 image: ''
-tags: [Casual,Introduction]
+tags: [Casual]
 category: Casual
 draft: false
 ---

@@ -3,8 +3,8 @@ title: Unreal5 Aesthetics tips
 published: 2024-06-10
 description: 'Make the blueprint editor look better'
 image: ''
-tags: [ue5,aesthetics,tips]
-category: ue5
+tags: [UE5,Aesthetics]
+category: UE5
 draft: false 
 ---
 ## Aesthetics
