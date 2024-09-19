@@ -4,7 +4,7 @@ published: 2024-06-30
 description: ''
 image: ''
 tags: [UE5, Efficiency]
-category: 'ue5'
+category: UE5
 draft: false 
 ---
 You create a blueprint node by right clicking then searching the node.![blueprint](blueprintSearch.png)  

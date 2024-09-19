@@ -49,7 +49,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/Artificial-Cloud.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Cloud',
-  bio: 'A visible mass of condensed watery vapour floating in the atmosphere, typically high above the general level of the ground.',
+  bio: 'A grey or white mass in the sky, made up of very small floating drops of water.',
   links: [
     {
       name: 'Twitter',

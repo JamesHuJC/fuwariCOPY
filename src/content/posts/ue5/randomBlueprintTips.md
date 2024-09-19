@@ -4,7 +4,7 @@ published: 2024-07-01
 description: ''
 image: ''
 tags: [UE5, Blueprints]
-category: 'UE5'
+category: UE5
 draft: false 
 ---
 ### add " " to variable names

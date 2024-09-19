@@ -17,8 +17,10 @@ Hope to write interesting stuff including, math, ue5, and other programming rela
  scratch | End of 2018 - 2022 Februrary
  cpp |  end of 2020 - now 
  java | 2023 March - now 
- ue5 bp | 2023 May - Now
+ ue5 bp | 2023 May - now
  
 
 # Languages I have done only a project or two with
-lua, rust, python, ahk, js
+lua, rust, python, ahk, javascript, hlsl
+
+Last updated: 2024 Sep 19
