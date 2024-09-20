@@ -10,7 +10,7 @@ draft: false
 ### Phrasing your words better
 Instead of "how do I fix this bug called null pointer error in java", "java null pointer error" would be better.
 1. Put important words at the start, e.g. "java"
-2. Remove unnecessary words. It also faster to type
+2. Remove unnecessary words. It's also faster to type
 
 ### Google dorking
 the usage of things like :
@@ -19,8 +19,6 @@ the usage of things like :
 | site:foo.com | only show results from foo.com |
 | "nne" | only show results that contain "nne" |
 | how to make a * with sugar | only show results that tell you how to make something with sugar |
-
-more techniques can be found by searching.
 
 ### Know what SEO (search engine optimization) is.
 Knowing stuff like this gives you a newer perspective when googling.
