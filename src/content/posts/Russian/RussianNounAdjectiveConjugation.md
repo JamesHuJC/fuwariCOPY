@@ -1,5 +1,5 @@
 ---
-title: Russian Noun/Adjective Conjugation Notes
+title: Russian noun/adjective conjugation notes
 published: 2024-06-27
 description: ''
 image: ''

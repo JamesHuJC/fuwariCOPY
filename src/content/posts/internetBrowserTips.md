@@ -1,5 +1,5 @@
 ---
-title: Internet Browser Tips
+title: Internet browsing tips
 published: 2024-06-11
 description: ''
 image: ''

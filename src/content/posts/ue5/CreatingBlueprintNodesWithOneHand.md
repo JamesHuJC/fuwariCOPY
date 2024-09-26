@@ -1,5 +1,5 @@
 ---
-title: Creating Blueprint Nodes With One Hand
+title: Creating blueprint nodes with one hand
 published: 2024-06-30
 description: ''
 image: ''

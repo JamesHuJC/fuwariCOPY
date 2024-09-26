@@ -1,5 +1,5 @@
 ---
-title: My Russian Learning Journey
+title: My journey of learning russian
 published: 2024-06-28
 description: ''
 image: ''
