@@ -1,5 +1,5 @@
 ---
-title: TheCostOfScience
+title: The cost of science - poem
 published: 2024-10-07
 description: 'The cost of science is the tales we used to tell'
 image: ''
