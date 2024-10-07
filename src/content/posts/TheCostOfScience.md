@@ -22,7 +22,7 @@ I've had this idea/quote for a year or so. Inspired by ideas like castle in the 
 
 > we soared the skies, and mapped the earth, no more magic islands, for cursed treasure to lay  
 
-Was going to write about kingkong, when I watched that movie, I though about how nowadays islands like that of kingkong couldn't exist, and was quite sad.  
+Was going to write about kingkong, but didn't quite fit the vide. When I watched the movie. I though about how nowadays islands like that of kingkong couldn't exist, and was quite sad.  
 Inspired by pirates of the caribbean.    
 
 > we shot for the stars, and reached the moon. No more rabbits, no more rivers.  
