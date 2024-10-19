@@ -10,8 +10,8 @@ lang: ''
 ---
 
 ### Main text
-What was it like, being the first person to prototype a perpetual motion machine, not knowing conservation of energy. They though they could acheive wonders, just by improving the machine by a bit. The possibilities were endless. The world had more posibilities back then, and anything could happen. 
-Do fairy tales really exist, or is it only us that have grown old, and "matured". Now we hold the book of science in one hand, and the sword of veracity in the other. We soared the skies with our airplanes, the castles in the clouds had to go, they were in the way; we soared the skies, and mapped the earth, no more magic islands, for cursed treasure to lay; we shot for the stars, and reached the moon. No more rabbits, no more rivers. Just the light poluted nights, where nuclear fussion shimmers. 
+What was it like, being the first person to prototype a perpetual motion machine, not knowing conservation of energy. Thinking they could acheive wonders, infinite energy. The possibilities were endless. The world had more posibilities back then, and anything could happen. 
+Do fairy tales really exist, or is it only us that have grown old, and "matured". Now we hold the book of science in one hand, and the sword of veracity in the other. We soared the skies with our airplanes, the castles in the clouds had to go, they were in the way; we sailed the seas, and mapped the earth, no more magic islands, for cursed treasure to lay; we shot for the stars, and reached the moon. No more rabbits, no more rivers. Just the light poluted nights, where nuclear fussion shimmers.   
 Was it worth it.
 ### Explanations
 Inspiration: Was watching a video about building a perpetual motion machine.  
@@ -20,7 +20,7 @@ Inspiration: Was watching a video about building a perpetual motion machine.
 
 I've had this idea/quote for a year or so. Inspired by ideas like castle in the sky.  
 
-> we soared the skies, and mapped the earth, no more magic islands, for cursed treasure to lay  
+> we sailed the seas, and mapped the earth, no more magic islands, for cursed treasure to lay
 
 Was going to write about kingkong, but didn't quite fit the vide. When I watched the movie. I though about how nowadays islands like that of kingkong couldn't exist, and was quite sad.  
 Inspired by pirates of the caribbean.    
