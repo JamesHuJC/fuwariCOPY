@@ -32,5 +32,6 @@ shot for the stars in a pun here. The idea of rabbits is inspired by touhou and 
 > Just the light poluted nights, where nuclear fussion shimmers. 
 
 Light polution is becomming worse, and a lot of people in the next generation might not even see stars for their entire life. Inspired by a video I saw.  
-Star=Nuclear fussion. The word shimmer is choosen because of light polution.  
+Before, we didn't know a lot about stars. The tales about them could have been true. There were a lot more possibilities. But now we know: Stars are just nuclear fussion.
+The word shimmer is choosen because of light polution.
 
